@@ -1,0 +1,110 @@
+w i n d X f i x X t r i m 
+l a b s X v i n X l a t h 
+n e x t X t r e s s o u r 
+b o y s X u t a s X X X X 
+l u m X m e l i s m a t a 
+X X a r o i d s X c l e w 
+e c h e s X X X l a p e l 
+b e n e X m e e t e r X X 
+s a f f l o w e r X w o w 
+X X X X s e n d X c a g y 
+c o l l u v i a X s o l o 
+b e a t X n i x X o f f s 
+n i c k X l e v X p r e x 
+.............................
+in size: 4 num: 3686
+s a n s X f i x X p a p a 
+l o n e X v i n X a r e a 
+s o r e X t r e s s o u r 
+s e e s X a u r a X X X X 
+l u m X m e l i s m a t a 
+X X a r o i d s X a r e a 
+e c h e s X X X l a p e l 
+a a l s X m e e t e r X X 
+s a f f l o w e r X w o w 
+X X X X a u l d X s o r e 
+c o l l u v i a X a u l d 
+a r e a X n i x X l o n e 
+n e n e X l e v X s e e s 
+corrects: 7
+............................
+in size: 3 num: 908
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X t r e s s o u r 
+s e e s X a u r a X X X X 
+a i t X m e l i s m a t a 
+X X a r o i d s X a r e a 
+e c h e s X X X l a p e l 
+a a l s X m e e t e r X X 
+s a f f l o w e r X a i t 
+X X X X a u l d X s o r e 
+c o l l u v i a X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 7
+............................
+in size: 8 num: 26447
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X m e l i s m a t a 
+X X a r o i d s X a r e a 
+e c h e s X X X l a p e l 
+a a l s X m e e t e r X X 
+s a f f l o w e r X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 10
+............................
+in size: 9 num: 16658
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X a r o i d s X a r e a 
+e c h e s X X X l a p e l 
+a a l s X m e e t e r X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 10
+............................
+in size: 6 num: 14374
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X a p a c h e X a r e a 
+e c h e s X X X l a p e l 
+a a l s X a r c a d e X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 12
+............................
+in size: 5 num: 8258
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X a p a c h e X a r e a 
+a p s i s X X X a r m e t 
+a a l s X a r c a d e X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+1******************
+correct: 10

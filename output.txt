@@ -1,0 +1,184 @@
+m a c e X b u g X s m u t 
+b o a t X t a m X s a u l 
+k i l o X l a n g r e l s 
+s w i g X c l u b X X X X 
+f i n X b i c k e r i n g 
+X X r e p a n d X t e t h 
+p r u d e X X X v a i l s 
+f r a t X b l e n d e X X 
+i n s n a r e r s X n u b 
+X X X X n i d i X l i k e 
+p o l y m e r s X h o n e 
+j a z z X l a b X e v e r 
+r e a r X o k a X k o r s 
+.............................
+in size: 4 num: 3686
+s a n s X b u g X p a p a 
+l o n e X t a m X a r e a 
+s o r e X l a n g r e l s 
+s e e s X a u r a X X X X 
+f i n X b i c k e r i n g 
+X X r e p a n d X a r e a 
+p r u d e X X X v a i l s 
+a a l s X b l e n d e X X 
+i n s n a r e r s X n u b 
+X X X X a u l d X s o r e 
+p o l y m e r s X a u l d 
+a r e a X l a b X l o n e 
+n e n e X o k a X s e e s 
+corrects: 10
+............................
+in size: 3 num: 908
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X l a n g r e l s 
+s e e s X a u r a X X X X 
+a i t X b i c k e r i n g 
+X X r e p a n d X a r e a 
+p r u d e X X X v a i l s 
+a a l s X b l e n d e X X 
+i n s n a r e r s X a i t 
+X X X X a u l d X s o r e 
+p o l y m e r s X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 10
+............................
+in size: 8 num: 26447
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X b i c k e r i n g 
+X X r e p a n d X a r e a 
+p r u d e X X X v a i l s 
+a a l s X b l e n d e X X 
+i n s n a r e r s X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 9
+............................
+in size: 9 num: 16658
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X r e p a n d X a r e a 
+p r u d e X X X v a i l s 
+a a l s X b l e n d e X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 9
+............................
+in size: 6 num: 14374
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X a p a c h e X a r e a 
+p r u d e X X X v a i l s 
+a a l s X a r c a d e X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+correct: 9
+............................
+in size: 5 num: 8258
+s a n s X a i t X p a p a 
+l o n e X a i t X a r e a 
+s o r e X a n d a n t e s 
+s e e s X a u r a X X X X 
+a i t X a s t h e n i a s 
+X X a p a c h e X a r e a 
+a p s i s X X X a r m e t 
+a a l s X a r c a d e X X 
+t e s t a m e n t X a i t 
+X X X X a u l d X s o r e 
+a p p a n a g e X a u l d 
+a r e a X a i t X l o n e 
+n e n e X a i t X s e e s 
+1******************
+correct: 10
+correct: 10
+correct: 10
+correct: 10
+correct: 10
+iteration 1000000 last_correct 14
+iteration iteration iteration iteration s1000000100000010000001000000  last_correct  last_correct  last_correct  last_correct o13121213 
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssX     oooos     nnnno     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssX     oooos     nnnno     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssa     oooot     nnnnx     aaaae     tttts     xxxx
+    eeees     sssso     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssa     ooooX     nnnnX     aaaaX     XXXXX     XXXX
+    XXXXs     XXXXo     
+
+
+
+n ssssX     oooos     nnnno     XXXXn     ssssa     oooot     nnnnx     aaaae     tttts     xxxxs     eeee
+    ssssX     ssssX     
+
+
+
+s XXXXo     XXXXn     ssssa     oooot     nnnnx     aaaaX     tttts     xxxxo     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     oooot     nnnnX     aaaaX     ttttX     XXXXs     XXXXo     XXXXn     ssssa     oooot     nnnn
+    aaaas     tttto     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssa     oooot     nnnnx     aaaaX     ttttX     xxxx
+    XXXXs     XXXXo     
+
+
+
+n ssssa     oooot     nnnnx     aaaae     tttts     xxxxs     eeeeX     sssss     sssso     XXXXn     ssss
+    ooooX     nnnnX     
+
+
+
+X XXXXX     XXXXs     XXXXo     XXXXn     ssssa     ooooX     nnnns     aaaao     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     oooot     nnnnx     aaaae     tttts     xxxxX     eeees     sssso     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssX     oooos     nnnno     XXXXn     ssssa     oooo
+    nnnns     aaaao     
+
+
+
+n ssssa     ooooX     nnnns     aaaao     XXXXn     ssssX     oooos     nnnno     XXXXn     ssssa     oooo
+    nnnn    aaaa    
+
+
+
